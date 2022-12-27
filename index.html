@@ -16,6 +16,17 @@
     <title>Mini Player</title>
   </head>
   <body>
+
+<style>@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+</style>
+
     <div class="wrapper" id="app">
       <div class="player">
         <div class="player__top">
@@ -68,15 +79,6 @@
         </div>
         <div v-cloak></div>
       </div>
-
-<style>@keyframes rotation {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(359deg);
-  }
-}</style>
 
 <center>
   <img style="border-radius:50%;
