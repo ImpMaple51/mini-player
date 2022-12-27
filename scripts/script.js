@@ -12,8 +12,8 @@ new Vue({
         {
           name: "Stressed Out",
           artist: "Twenty One Pilots",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          cover: "https://raw.githubusercontent.com/ImpMaple51/mini-player/master/img/1.jpg",
+          source: "https://raw.githubusercontent.com/ImpMaple51/mini-player/master/mp3/1.mp3",
           url: "https://youtu.be/pXRviuL6vMY",
           favorited: false
         },
